@@ -24,7 +24,7 @@ const Hero = () => {
           zIndex: 0,
         }}
       >
-        <source src="/proba-tech-software/probaSoftware.mp4" type="video/mp4" />
+        <source src="/proba-tech/probaSoftware.mp4" type="video/mp4" />
         Tu navegador no soporta videos de fondo.
       </video>
 
