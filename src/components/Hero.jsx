@@ -7,7 +7,6 @@ const Hero = () => {
       className="hero"
       style={{ position: "relative", minHeight: "100vh" }}
     >
-      {/* Video de fondo */}
       <video
         className="hero-video"
         autoPlay
@@ -24,14 +23,10 @@ const Hero = () => {
           zIndex: 0,
         }}
       >
-        <source
-          src={`${import.meta.env.BASE_URL}probaSoftware.mp4`}
-          type="video/mp4"
-        />
+        <source src="/proba-tech/probaSoftware.mp4" type="video/mp4" />
         Tu navegador no soporta videos de fondo.
       </video>
 
-      {/* Overlay oscuro para mejorar legibilidad */}
       <div
         style={{
           position: "absolute",
@@ -44,7 +39,6 @@ const Hero = () => {
         }}
       />
 
-      {/* Contenido del Hero */}
       <div
         className="hero-content text-center"
         style={{
