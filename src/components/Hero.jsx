@@ -1,5 +1,4 @@
 import React from "react";
-import videoFile from "/probaSoftware.mp4";
 
 const Hero = () => {
   return (
@@ -25,7 +24,10 @@ const Hero = () => {
           zIndex: 0,
         }}
       >
-        <source src={videoFile} type="video/mp4" />
+        <source
+          src={`${import.meta.env.BASE_URL}probaSoftware.mp4`}
+          type="video/mp4"
+        />
         Tu navegador no soporta videos de fondo.
       </video>
 
