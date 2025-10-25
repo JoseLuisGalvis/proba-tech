@@ -37,8 +37,7 @@ const Problema = () => {
           >
             La <strong>Gerencia de Frontend</strong> de Proba Software and
             Development CO ha asignado a 30 desarrolladores web la tarea de
-            construir una Landing Page para el cliente Pirulito and Cuchiflito
-            CO.
+            construir una Landing Page para el cliente Pirulito CO.
           </p>
 
           <div

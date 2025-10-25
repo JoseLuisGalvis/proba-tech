@@ -46,8 +46,8 @@ const HeroStats = ({ stats }) => {
           style={{ color: "#d1d5db" }}
         >
           Proba Software evalúa el rendimiento de carga de la Landing Page para{" "}
-          <strong>Pirulito and Cuchiflito CO</strong>. 30 desarrolladores, un
-          objetivo: excelencia en performance.
+          <strong>Pirulito CO</strong>. 30 desarrolladores, un objetivo:
+          excelencia en performance.
         </p>
 
         <div className="flex gap-4 justify-center mb-12 flex-wrap">

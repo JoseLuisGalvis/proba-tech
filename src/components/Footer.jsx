@@ -36,7 +36,7 @@ const Footer = ({ carrera, cuatrimestre, materia, alumnos }) => {
           className="text-sm"
           style={{ color: isDarkMode ? "#6b7280" : "#9ca3af" }}
         >
-          Análisis estadístico para Pirulito CO
+          Análisis Estadístico para Pirulito CO
         </div>
 
         {/* Divisor */}

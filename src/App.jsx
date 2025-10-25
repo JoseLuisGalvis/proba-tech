@@ -65,7 +65,7 @@ const App = () => {
         <Footer
           carrera="Tecnicatura Superior en Desarrollo de Software"
           cuatrimestre="2025 • 2°"
-          materia="Modelado de Software"
+          materia="Estadística y Probabilidad para el Desarrollo de Software"
           alumnos={[
             "Raquel Andrada",
             "Victoria Arguijo",
